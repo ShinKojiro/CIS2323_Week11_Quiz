@@ -24,7 +24,7 @@ public class Horse{
 	public void setBirthYear(int b){
 		birthYear = b;
 	}
-	public int getBirthyear(){
+	public int getBirthYear(){
 		return birthYear;
 	}
 }
